@@ -3,7 +3,7 @@
 
 > Bootcamp - Primeiro projeto de desenvolvimento Web
 
-Esse é um projeto de desenvolvimento Web, vamos implementar o frontend e o backend de um Web site.
+Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um Web site.
 
 ## Iniciando no Front-end
 
