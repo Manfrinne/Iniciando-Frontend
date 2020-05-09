@@ -39,15 +39,7 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
   - Add Favicon
   - Header com 3 links: Comunidade, Email e Telefone
-
-
-
-
-
-
-
-
-
+  
 ## Meta
 
 Manfrinne Ferreira – [@Manfrinne_R00t](https://twitter.com/Manfrinne_R00t) – m4nfrinne@gmail.com - [https://github.com/Manfrinne](https://github.com/Manfrinne)
