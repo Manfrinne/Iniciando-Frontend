@@ -41,8 +41,7 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
 - [x] Variáveis no CSS
 
-- [ ] Links para redes socias
-
+- [x] Links para redes socias
 
 ## Meta
 
