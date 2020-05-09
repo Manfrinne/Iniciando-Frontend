@@ -27,19 +27,23 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
 - [x] Estilizando fontes e links do menu
 
+### Pagina Sobre
 
+- [x] Adicionando imagens no HTML
 
+- [x] Separando e importando estilos
 
+- [x] Trabalhando com texto no HTML
 
+- [x] Estilizando imagem do avatar
 
+- [x] Estilizando textos e fontes com CSS
 
+- [x] Variáveis no CSS
 
+- [ ] Links para redes socias
 
 
 ## Meta
 
 Manfrinne Ferreira – [@Manfrinne_R00t](https://twitter.com/Manfrinne_R00t) – m4nfrinne@gmail.com - [https://github.com/Manfrinne](https://github.com/Manfrinne)
-
-
-
-
