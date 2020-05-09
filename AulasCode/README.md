@@ -1,5 +1,13 @@
 
-# Bootcamp Rocketseat
+<h1 align="center">
+  <img alt="Manfrinne-Readme" src="https://avatars3.githubusercontent.com/u/58799400?s=460&u=f999f953097ba809f7da805ffda078037205fc95&v=4" width="150px" />
+</h1>
+
+<h2 align="center">
+
+ Bootcamp Rocketseat
+
+</h2>
 
 > Bootcamp - Primeiro projeto de desenvolvimento Web
 
@@ -27,6 +35,10 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
 - [x] Estilizando fontes e links do menu
 
+- [x] Desafio 2-1
+
+  - Add Favicon
+  - Header com 3 links: Comunidade, Email e Telefone
 
 
 
