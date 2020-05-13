@@ -42,21 +42,21 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
 ### Página sobre
 
-- [ ] Adicionando imagens no HTML
+- [x] Adicionando imagens no HTML
 
-- [ ] Separando e importando estilos
+- [x] Separando e importando estilos
 
-- [ ] Trabalhando com texto no HTML
+- [x] Trabalhando com texto no HTML
 
-- [ ] Estilizando imagem do avatar
+- [x] Estilizando imagem do avatar
 
-- [ ] Estilizando textos e fontes com CSS
+- [x] Estilizando textos e fontes com CSS
 
-- [ ] Variáveis no CSS
+- [x] Variáveis no CSS
 
-- [ ] Links para redes socias
+- [x] Links para redes socias
 
-- [ ] Desafio 2-2
+- [x] Desafio 2-2
 
   - A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
     - Informações da página
