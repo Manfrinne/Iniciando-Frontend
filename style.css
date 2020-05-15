@@ -61,7 +61,7 @@ header div img {
 
 header div a:hover {
     font-weight: bold;
-    transition: 250ms;
+    transition: 90ms;
     border-bottom: 1px solid #ffffff;
 }
 
@@ -104,15 +104,37 @@ header div a:hover {
 }
 
 .info .infoImage h1 {
-    color: rgb(75, 75, 75);
+    color: #ffffff;
+    padding: 25px;
+    margin: 50px auto;
     font-size: 35px;
     line-height: 40px;
-    width: 365px;
+    width: 250px;
     height: 50px;
-    padding-top: 25px;
     text-align: center;
+    background: rgb(113, 89, 193);
+    border-radius: 15px;
 }
 
+.linksFooter {
+    text-align: center;
+    color: rgb(88, 81, 109);
+    margin-left: 35px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 75px;
+}
+
+.linksFooter a {
+    margin-right: 30px;
+    padding: 10px;
+}
+
+.linksFooter a:hover {
+    color: white;
+    background: rgb(113, 89, 193);
+    
+}
 
 
 
