@@ -43,9 +43,11 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
 - [x] Links para redes socias
 
+### Página Portfólio
 
-
-
+- [x] Iniciando página de portfólio;
+- [x] Estilizando os cards;
+- [x] Posicionando elementos HTML com CSS grid;
 
 ## Contato
 

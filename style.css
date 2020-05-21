@@ -3,6 +3,7 @@
 
 :root {
     --color-green: #50fa7b; 
+    --color-rocket: #7159c1;
 }
 
 * {
@@ -16,6 +17,7 @@ body {
     background: #282a36;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
+    padding-bottom: 200px;
 }
 
 header {
@@ -91,4 +93,38 @@ header {
     height: 100px;
 }
 
+/* CARDS */
+
+.cards {
+    max-width: 900px;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.card {
+    background: var(--color-rocket);
+}
+
+.card__image-container img {
+    max-width: 100%;
+}
+
+.card__content, .card__info {
+    padding: 25px;
+}
+
+.card__info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.card__price {
+    text-align: center;
+    background-color: var(--color-rocket);
+    filter: brightness(90%);
+    padding: 5px 20px;
+    border-radius: 20px;
+}
 
