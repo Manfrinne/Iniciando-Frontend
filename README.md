@@ -49,6 +49,13 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 - [x] Estilizando os cards;
 - [x] Posicionando elementos HTML com CSS grid;
 
+### Modal
+
+- [x] Sobreposição de conteúdo HTML com CSS;
+- [x] Adicionando janela pop-up no estilo modal;
+- [x] Escondendo elementos com CSS;
+
+
 ## Contato
 
 Manfrinne Ferreira – [@Manfrinne_R00t](https://twitter.com/Manfrinne_R00t) – m4nfrinne@gmail.com - [https://github.com/Manfrinne](https://github.com/Manfrinne)
