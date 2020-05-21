@@ -43,6 +43,10 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 
 - [x] Links para redes socias
 
-## Meta
+
+
+
+
+## Contato
 
 Manfrinne Ferreira – [@Manfrinne_R00t](https://twitter.com/Manfrinne_R00t) – m4nfrinne@gmail.com - [https://github.com/Manfrinne](https://github.com/Manfrinne)
