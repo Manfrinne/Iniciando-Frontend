@@ -55,7 +55,18 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 - [x] Adicionando janela pop-up no estilo modal;
 - [x] Escondendo elementos com CSS;
 
+### Controlando Modal com javaScript
+
+- [x] Selecionando elementos da DOM
+- [x] Manipulando a DOM
+
+### Vídeo dinâmico
+
+- [x] Adicionando conteúdo externo com iframe
+- [x] Substituindo conteúdo com JavaScript
 
 ## Contato
 
 Manfrinne Ferreira – [@Manfrinne_R00t](https://twitter.com/Manfrinne_R00t) – m4nfrinne@gmail.com - [https://github.com/Manfrinne](https://github.com/Manfrinne)
+
+
