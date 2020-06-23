@@ -5,6 +5,8 @@
 
 Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um Web site.
 
+![](public/frontendPortfolio.gif)
+
 ## Iniciando no Front-end
 
 ### HTML e CSS
@@ -65,8 +67,12 @@ Esse é um projeto de desenvolvimento Web, vamos implementar o frontend de um We
 - [x] Adicionando conteúdo externo com iframe
 - [x] Substituindo conteúdo com JavaScript
 
-## Contato
+## Como contribuir:
 
-Manfrinne Ferreira – [@Manfrinne_R00t](https://twitter.com/Manfrinne_R00t) – m4nfrinne@gmail.com - [https://github.com/Manfrinne](https://github.com/Manfrinne)
+-  Faça um fork do projeto;
+-  Crie uma nova branch, exemplo: `git checkout -b my-feature`;
+-  Commit as modificações, exemplo: `git commit -m 'feat: My new feature'`;
+-  Faça um push para a sua branch: `git push origin my-feature`.
 
 
+Criado por Manfrinne Ferreira [Contato](https://www.linkedin.com/in/manfrinne-ferreira-6033121a7/)
